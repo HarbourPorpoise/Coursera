@@ -8,7 +8,9 @@ here I just type some stuff
 
 and here I just type some other stuff and
 now just nonesense
-jehrwhweorw iowe jwioej üw \n here I think I finally made a proper line ending
+jehrwhweorw iowe jwioej üw 
+
+here I think I finally made a proper line ending
 
 and now a list 
 
